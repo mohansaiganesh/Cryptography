@@ -1,2 +1,2 @@
 # Cryptography
-Contains list of cryptographic projects
+Contains list of cryptographic projects.
